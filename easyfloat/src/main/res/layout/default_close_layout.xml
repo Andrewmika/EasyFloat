@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="110dp"
     android:paddingHorizontal="50dp"
-    app:closeShapeType="oval"
     app:inRangeColor="#99FF0000"
     app:normalColor="#99000000"
     app:zoomSize="4dp">
